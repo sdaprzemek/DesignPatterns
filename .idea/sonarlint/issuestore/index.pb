@@ -1,0 +1,11 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+;
+authors.csv,5\6\56e3b45a7ed2b951a646442c7a1bc5be84765933
+9
+	books.csv,9\a\9ab8e9a82b1e659cf60b220f96fcd25f57490684
+>
+categories.csv,7\c\7c7e5e98de9dc8da4a92aa90ffef57715657173c
+B
+DesignPatterns.iml,7\4\743099039556c137cfa0839a7ba4f92810122580
